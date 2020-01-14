@@ -96,7 +96,7 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {
-    "autoprefixer": "9.7.3",
+    "autoprefixer": "9.7.4",
     "nodemon": "2.0.2",
     "cssnano": "4.1.10",
     "concurrently": "5.0.2",
